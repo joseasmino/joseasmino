@@ -50,7 +50,7 @@ Strong background in **Microsoft ecosystem, data governance, ETL modernization, 
 
 ## 🛠 Technical Skills
 
-**Languages:** SQL, JavaScript, TypeScript, Python  
+**Languages:** SQL, Python, JavaScript, TypeScript
 **Power Platform:** Power Apps, Power Automate, Power Pages, Dataverse  
 **Microsoft:** Azure, Microsoft Fabric, Power BI, Purview  
 **Data & Integration:** CDI, ETL, CDC, Data Modeling  
