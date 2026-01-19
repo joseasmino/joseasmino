@@ -3,7 +3,7 @@
 **Software Engineer | Power Platform & Data Engineering**
 
 I’m a Software Engineer with experience in building **Power Platform solutions, data integration pipelines, and analytics dashboards** across enterprise environments.  
-My work focuses on **automation, data governance, ETL modernization, and business applications** using the Microsoft ecosystem.
+My work focuses on **automation, data governance, ETL modernization, and business applications** using the Microsoft and Informatica ecosystem.
 
 ---
 
