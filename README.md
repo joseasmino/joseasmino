@@ -20,7 +20,7 @@ My work focuses on **automation, data governance, ETL modernization, and busines
 - SQL, Data Modeling
 
 **Programming & Automation**
-- SQL, JavaScript, TypeScript
+- SQL, Python, JavaScript, TypeScript
 - API Integration, Workflow Automation
 
 ---
