@@ -1,51 +1,61 @@
-# Hi, I'm Jose 👋
+# Jose Antony 👋
 
-**Software Engineer**
+**Software Engineer | Power Platform & Data Engineering**
 
-I’m a Software Engineer with experience in building **Power Platform solutions, data integration pipelines, and analytics dashboards** across enterprise environments.  
-My work focuses on **automation, data governance, ETL modernization, and business applications** using the Microsoft and Informatica ecosystem.
+Software Engineer with experience in building **enterprise Power Platform solutions, data integration pipelines, and analytics dashboards**.  
+Strong background in **Microsoft ecosystem, data governance, ETL modernization, and MDM solutions**.
 
 ---
 
-## 🔧 Tech Stack
+## 🧩 Core Expertise
 
-**Microsoft**
-- Power Apps, Power Automate, Power Pages, Dataverse
-- Power BI, Microsoft Fabric, Azure
-- Microsoft Purview (Data Governance)
-
-**Data & Integration**
-- Informatica CDI, CDQ, CDGC, CAI
-- ETL Development, CDC, Data Quality, Data Governance
-- SQL, Data Modeling
-
-**Programming & Automation**
-- SQL, Python, JavaScript, TypeScript
-- API Integration, Workflow Automation
+- Power Apps, Power Automate, Power Pages, Dataverse  
+- Power BI, Microsoft Fabric, Azure, Microsoft Purview  
+- Data Integration, ETL, CDC, Data Governance & Quality  
+- Informatica CDI, CDQ, CDGC, CAI, PowerCenter  
 
 ---
 
 ## 💼 Professional Experience
 
-**Software Engineer | Power Platform & Data Solutions**
+**Associate Data Management & Power Platform Consultant**
 
-- Built enterprise Power Platform applications for automation, MDM, and workflow orchestration.
-- Developed Power BI dashboards for operational and executive reporting.
-- Contributed to cloud migration projects by modernizing ETL pipelines using CDI.
-- Supported data governance initiatives using Purview and CDGC.
+- Designed and developed **Power Platform applications** using Power Apps, Power Automate, Power Pages, and Dataverse.
+- Built **enterprise MDM solutions** on Power Platform for large retail and enterprise environments.
+- Developed **Power BI dashboards** for operational and executive reporting.
+- Worked on **ETL modernization**, migrating legacy pipelines to **Cloud Data Integration (CDI)**.
+- Implemented **data governance, cataloging, and lineage** using Purview and CDGC.
+- Collaborated with cross-functional teams to deliver scalable, compliant data solutions.
 
 ---
 
 ## 📌 Projects
 
-- **Power Platform MDM Solution**  
-  Enterprise master data solution using Power Apps, Dataverse, and Power Automate.
+### 🔹 Enterprise Data Migration & Modernisation
+- Migrated SSIS & PowerCenter pipelines to **Cloud Data Integration (CDI)**.
+- Built parameterized mappings, taskflows, and CDC logic.
+- Implemented metadata management and lineage using CDGC.
 
-- **Enterprise Data Migration (ETL)**  
-  Migrated legacy ETL pipelines to Cloud Data Integration with CDC and validation.
+### 🔹 Master Data Management Solution (Power Platform)
+- Developed enterprise MDM solution using **Power Apps, Dataverse, and Power Automate**.
+- Automated validation workflows, approvals, and business rules.
+- Integrated external systems via APIs and automation flows.
 
-- **Power BI Analytics Dashboards**  
-  Executive dashboards with RLS, DAX optimization, and incremental refresh.
+### 🔹 Power BI Analytics & Dashboarding
+- Built Power BI dashboards for KPIs and executive insights.
+- Implemented RLS, DAX optimization, and incremental refresh.
+- Integrated data from Dataverse, SQL, and cloud pipelines.
+
+---
+
+## 🛠 Technical Skills
+
+**Languages:** SQL, JavaScript, TypeScript, Python  
+**Power Platform:** Power Apps, Power Automate, Power Pages, Dataverse  
+**Microsoft:** Azure, Microsoft Fabric, Power BI, Purview  
+**Data & Integration:** CDI, ETL, CDC, Data Modeling  
+**MDM & Governance:** MDM SaaS, CDGC, Data Quality (CDQ)  
+**Tools:** API Integration, Workflow Automation, Debugging & Optimization  
 
 ---
 
@@ -59,14 +69,15 @@ My work focuses on **automation, data governance, ETL modernization, and busines
 ## 📜 Certifications
 
 - PL-900: Power Platform Fundamentals *(In Progress)*
-- PL-300: Power BI Data Analyst *(Planned)*
-- PL-400: Power Platform Developer *(Future)*
-- Informatica CDI Implementation Practitioner
-- Informatica MDM C360 SaaS Practitioner
+- PL-300: Power BI Data Analyst *(Completed)*
+- Informatica CDI Implementation Practitioner *(Completed)*
+- Informatica MDM C360 SaaS Practitioner *(Completed)*
+- Informatica CDGC Implementation Practitioner *(Completed)*
+- Informatica CDQ / Cloud Data Quality Practitioner *(Completed)*
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/jose-antony2/
 - 📧 Email: joseasmino23@gmail.com
