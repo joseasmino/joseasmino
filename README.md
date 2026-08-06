@@ -1,6 +1,10 @@
+<div align="center">
+
 # Jose Antony
 
-**Data Management & Integration Consultant working across cloud data platforms**
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Data+Management+%26+Integration+Consultant;Cloud+Data+Platforms+%7C+MDM+%7C+Automation;Informatica+%7C+Azure+%7C+Power+Platform+%7C+Power+BI" alt="Typing SVG" />
+
+</div>
 
 ---
 
@@ -16,34 +20,62 @@ MCA.
 ## What I Work With
 
 **Data Integration**
-Informatica Cloud (CDI, CDQ, CDGC, CAI), MDM C360
+
+![Informatica](https://img.shields.io/badge/Informatica-CC2929?style=for-the-badge&logoColor=white)
+![CDI](https://img.shields.io/badge/CDI-CC2929?style=for-the-badge&logoColor=white)
+![CDQ](https://img.shields.io/badge/CDQ-CC2929?style=for-the-badge&logoColor=white)
+![CDGC](https://img.shields.io/badge/CDGC-CC2929?style=for-the-badge&logoColor=white)
+![CAI](https://img.shields.io/badge/CAI-CC2929?style=for-the-badge&logoColor=white)
+![MDM C360](https://img.shields.io/badge/MDM_C360-CC2929?style=for-the-badge&logoColor=white)
 
 **Cloud & Data**
-Azure, Databricks, Microsoft Fabric
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-1F6FEB?style=for-the-badge&logoColor=white)
 
 **Low-code**
-Power Platform (Power Apps, Power Automate, Dataverse)
+
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Dataverse](https://img.shields.io/badge/Dataverse-742774?style=for-the-badge&logoColor=white)
 
 **BI**
-Power BI
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **Languages**
-Python, C#, JavaScript, SQL
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ## Certifications
 
-- Informatica CDI Implementation Practitioner
-- Informatica CDQ Practitioner
-- Informatica CDGC Implementation Practitioner
-- Informatica CAI Practitioner
-- Informatica MDM C360 Implementation Practitioner
-- Microsoft PL-300: Power BI Data Analyst
+![CDI](https://img.shields.io/badge/Informatica-CDI_Implementation_Practitioner-CC2929?style=flat-square)
+![CDQ](https://img.shields.io/badge/Informatica-CDQ_Practitioner-CC2929?style=flat-square)
+![CDGC](https://img.shields.io/badge/Informatica-CDGC_Implementation_Practitioner-CC2929?style=flat-square)
+![CAI](https://img.shields.io/badge/Informatica-CAI_Practitioner-CC2929?style=flat-square)
+![MDM C360](https://img.shields.io/badge/Informatica-MDM_C360_Implementation_Practitioner-CC2929?style=flat-square)
+![PL-300](https://img.shields.io/badge/Microsoft-PL--300_Power_BI_Data_Analyst-F2C811?style=flat-square)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jose-antony-02&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Jose's GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-antony-02&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165" />
+
+</div>
 
 ---
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/jose-antony2/
-- Email: joseasmino23@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-antony2/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseasmino23@gmail.com)
