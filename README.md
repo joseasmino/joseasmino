@@ -59,12 +59,16 @@ MCA.
 
 ## Certifications
 
+<div align="center">
+
 ![CDI](https://img.shields.io/badge/Informatica-CDI_Implementation_Practitioner-CC2929?style=flat-square)
 ![CDQ](https://img.shields.io/badge/Informatica-CDQ_Practitioner-CC2929?style=flat-square)
 ![CDGC](https://img.shields.io/badge/Informatica-CDGC_Implementation_Practitioner-CC2929?style=flat-square)
 ![CAI](https://img.shields.io/badge/Informatica-CAI_Practitioner-CC2929?style=flat-square)
 ![MDM C360](https://img.shields.io/badge/Informatica-MDM_C360_Implementation_Practitioner-CC2929?style=flat-square)
 ![PL-300](https://img.shields.io/badge/Microsoft-PL--300_Power_BI_Data_Analyst-F2C811?style=flat-square)
+
+</div>
 
 ---
 
