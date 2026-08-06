@@ -1,54 +1,49 @@
-# Jose Antony 👋
+# Jose Antony
 
-**Data Engineer | Enterprise MDM & Power BI | Informatica & Power Platform**
-
-Data Engineer specializing in **Master Data Management, Data Governance, and Analytics solutions** within enterprise environments.  
-
-Experienced in building scalable **Power Platform applications, Informatica-based integration pipelines, and Power BI reporting frameworks** that support operational and executive decision-making.
+**Data Management & Integration Consultant working across cloud data platforms**
 
 ---
 
-## 🚀 What I Work On
+## About
 
-- Enterprise **Master Data Management (MDM)** solutions  
-- Power BI reporting & analytics dashboards  
-- ETL modernization using **Informatica CDI & CDC**  
-- Power Apps–based validation and governance frameworks  
-- Data cataloging, lineage, and quality implementation  
-
----
-
-## 🧠 Core Technologies
-
-**Informatica:** CDI, CDQ, CDGC, CAI, MDM SaaS  
-**Power Platform:** Power Apps, Power Automate, Power Pages, Dataverse  
-**Analytics:** Power BI, Microsoft Fabric  
-**Microsoft Stack:** Azure, Purview  
-**Languages:** SQL, Python, JavaScript, TypeScript  
+2 years building data management and integration solutions across banking,
+insurance, and retail domains. Experience spanning cloud data integration,
+master data management, workflow automation, and BI. Currently pursuing an
+MCA.
 
 ---
 
-## 🏗 Focus Areas
+## What I Work With
 
-- Designing enterprise-grade validation frameworks  
-- Implementing structured data governance models  
-- Migrating legacy ETL systems to cloud-native architectures  
-- Delivering reliable BI solutions for business insight  
-- Ensuring integration-safe master data across systems  
+**Data Integration**
+Informatica Cloud (CDI, CDQ, CDGC, CAI), MDM C360
+
+**Cloud & Data**
+Azure, Databricks, Microsoft Fabric
+
+**Low-code**
+Power Platform (Power Apps, Power Automate, Dataverse)
+
+**BI**
+Power BI
+
+**Languages**
+Python, C#, JavaScript, SQL
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-- PL-300: Power BI Data Analyst  
-- Informatica CDI Implementation Practitioner  
-- Informatica MDM C360 SaaS Practitioner  
-- Informatica CDGC Implementation Practitioner  
-- Informatica CDQ Practitioner  
+- Informatica CDI Implementation Practitioner
+- Informatica CDQ Practitioner
+- Informatica CDGC Implementation Practitioner
+- Informatica CAI Practitioner
+- Informatica MDM C360 Implementation Practitioner
+- Microsoft PL-300: Power BI Data Analyst
 
 ---
 
-## 🔗 Connect
+## Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/jose-antony2/
-- 📧 Email: joseasmino23@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jose-antony2/
+- Email: joseasmino23@gmail.com
