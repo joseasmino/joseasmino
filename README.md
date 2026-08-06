@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Data+Management+%26+Integration+Consultant;Cloud+Data+Platforms+%7C+MDM+%7C+Automation;Informatica+%7C+Azure+%7C+Power+Platform+%7C+Power+BI" alt="Typing SVG" />
 
+![Profile Views](https://komarev.com/ghpvc/?username=jose-antony-02&label=Profile%20Views&color=2F81F7&style=flat-square)
+
 </div>
 
 ---
@@ -14,6 +16,10 @@
 insurance, and retail domains. Experience spanning cloud data integration,
 master data management, workflow automation, and BI. Currently pursuing an
 MCA.
+
+- 🔭 Currently working on Dataverse-based MDM and workflow automation solutions
+- 🌱 Currently pursuing an MCA alongside client delivery work
+- 💬 Ask me about Informatica Cloud, Dataverse/Power Platform, or Power BI
 
 ---
 
@@ -70,6 +76,10 @@ MCA.
 
 <img src="https://github-readme-stats.vercel.app/api?username=jose-antony-02&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Jose's GitHub stats" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-antony-02&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jose-antony-02&hide_border=true&theme=default" alt="GitHub Streak" height="165" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=jose-antony-02&theme=flat&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies" />
 
 </div>
 
