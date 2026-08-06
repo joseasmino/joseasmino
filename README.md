@@ -42,7 +42,7 @@ MCA.
 
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![Dataverse](https://img.shields.io/badge/Dataverse-742774?style=for-the-badge&logoColor=white)
+![Dataverse](https://img.shields.io/badge/Dataverse-2266E3?style=for-the-badge&logoColor=white)
 
 **BI**
 
